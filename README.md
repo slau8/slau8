@@ -4,7 +4,7 @@ I’m hyped about technology and hardware that leverages functional design. Came
 
 Most recently, I interned with [Facebook Reality Labs](https://tech.fb.com/codec-avatars-facebook-reality-labs/) working on the Codec Avatars Project.
 
-Feel free to check me out at [shannonlau.com](https://shannonlau.com) or email me at shanlau@umich.edu!
+Feel free to check me out at [shannonlau.com](https://shannonlau.com) or reach out at shanlau@umich.edu.
 
 <!--
 **slau8/slau8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
