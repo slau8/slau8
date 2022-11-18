@@ -2,7 +2,7 @@
 
 I’m hyped about technology and hardware that leverages functional design. Cameras, speakers + headphones, electric skateboards — anything with a power button is fair game. I enjoy building software that interfaces and complements these tangible products.
 
-Currently, I'm interning with [Facebook Reality Labs](https://tech.fb.com/codec-avatars-facebook-reality-labs/) working on the Codec Avatars Project.
+Most recently, I interned with [Facebook Reality Labs](https://tech.fb.com/codec-avatars-facebook-reality-labs/) working on the Codec Avatars Project.
 
 Feel free to check me out at [shannonlau.com](https://shannonlau.com) or email me at shanlau@umich.edu!
 
