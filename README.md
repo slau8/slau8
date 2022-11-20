@@ -1,10 +1,10 @@
-### Hello! 👋 I'm Shannon Lau, a design-driven software engineer and creator focused on building human-centered experiences.
+### Hello! 👋 I'm Shannon Lau, a software engineer and creative technologist. Let's build human-centered experiences, together.
 
-I’m hyped about technology and hardware that leverages functional design. Cameras, speakers + headphones, electric skateboards — anything with a power button is fair game. I enjoy building software that interfaces and complements these tangible products.
+I'm hyped about ubiquitous technologies with functional design. Cameras, headphones, smart devices, electric skateboards — if it turns on, it's fair game. My vision is to reimagine and expand these tangible experiences.
 
-Most recently, I interned with [Facebook Reality Labs](https://tech.fb.com/codec-avatars-facebook-reality-labs/) working on the Codec Avatars Project.
+Most recently, I interned with [Reality Labs at Meta](https://tech.fb.com/codec-avatars-facebook-reality-labs/), developing the Codec Avatars Project.
 
-Feel free to check me out at [shannonlau.com](https://shannonlau.com) or reach out at shanlau@umich.edu.
+Find more at [shannonlau.com](https://shannonlau.com), or reach out at shanlau@umich.edu.
 
 <!--
 **slau8/slau8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
