@@ -2,7 +2,7 @@
 
 I'm hyped about ubiquitous technologies with functional design. Cameras, headphones, smart devices, electric skateboards — if it turns on, it's fair game. My vision is to reimagine and expand these tangible experiences.
 
-Currently, I'm engineering safer, smarter, and more connected streets with [Cavnue](https://www.michiganbusiness.org/reports-data/success-stories/cavnue-cav-corridor/).
+Currently, I'm engineering safer, smarter, and connected streets with [Cavnue](https://www.michiganbusiness.org/reports-data/success-stories/cavnue-cav-corridor/).
 
 Find more at [shannonlau.com](https://shannonlau.com), or reach out at shanlau@umich.edu.
 
