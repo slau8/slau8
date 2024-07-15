@@ -1,4 +1,4 @@
-### Hello! 👋 I'm Shannon Lau, a software engineer and creative technologist. Let's build human-centered experiences, together.
+### Hello! 👋 I'm Shannon Lau, a software engineer and multidisciplinary creator. Let's build human-centered experiences, together.
 
 I'm hyped about ubiquitous technologies with functional design. Cameras, headphones, smart devices, electric skateboards — if it turns on, it's fair game. My vision is to reimagine and expand these tangible experiences.
 
