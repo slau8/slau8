@@ -1,9 +1,6 @@
 ### Hello! 👋 I'm Shannon Lau, a software engineer and multidisciplinary creator. Let's build human-centered experiences, together.
 
-I'm hyped about ubiquitous technologies with functional design. Speech-to-text tools, cameras, headphones, smart devices, electric skateboards, and more — I envision a future where our interactions with computers are subtle; while they're the backbone of some of our daily systems, our focus remains on our lived experience and the grounded reality of interacting with one another.
-
-
-Currently, I'm engineering safer, smarter, and connected streets with [Cavnue](https://www.michiganbusiness.org/reports-data/success-stories/cavnue-cav-corridor/).
+I'm hyped about ubiquitous technologies with functional design. Speech-to-text tools, cameras, headphones, fitness trackers, electric skateboards, and more — I’m envisioning a future where these tools feel so intuitive in our daily flow, that they almost fade into the background. Our focus remains grounded in the present, on the beauty of our everyday, and in the spaces where we feel truly connected.
 
 Find more at [shannonlau.com](https://shannonlau.com), or reach out at shanlau@umich.edu.
 
